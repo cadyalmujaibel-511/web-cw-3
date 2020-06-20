@@ -1,0 +1,30 @@
+img {
+display:block;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0%;
+}
+
+.PS4{
+background-color:blue;
+}
+
+.Nintendo{
+    background-color: red;
+}
+
+.PC{
+    background-color:green;
+}
+
+table{
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid black;  
+}
+td{
+    border: 1px solid black;   
+}
